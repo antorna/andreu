@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: PhD from the Catalan Institute of Chemical Research (ICIQ)
+avatar_filename: avatar.jpg
+bio: My research interests include organic chemistry, inorganic chemistry,
+  catalysis and chemical education.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Catalysis
+  - Organic Chemistry
+  - Inorganic Chemistry
+  - Chemical Education
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/antorna
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.es/citations?user=DUw-DR8AAAAJ&hl
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/antorna
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/atortajadanavarro/
+organizations:
+  - name: Catalan Institute of Chemical Research
+    url: https://www.iciq.org/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Chemical Science and Technology
+      institution: ICIQ
+      year: 2020
+    - course: MSc in Synthesis Catalysis and Molecular Design
+      institution: University Rovira i Virgili
+      year: 2016
+    - course: BSc in Chemistry
+      institution: University of Valencia
+      year: 2015
+superuser: true
 highlight_name: false
+title: Andreu Tortajada Navarro
+email: ""
 ---
+Andreu Tortajada Navarro finished his graduate studies in 2020 under the supervision of Prof. Ruben Martin at ICIQ. He has focused his doctoral work on the study of new site-selective catalytic CO<sub>2</sub> utilization in organic synthesis and the use of  CO<sub>2</sub> with isotope labeling purposes. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Nowadays, he is pursuing postodoctoral researcher position in organometallic chemstry and he is enrolled in a HighSchool teaching master programm.
