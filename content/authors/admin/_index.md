@@ -1,6 +1,6 @@
 ---
 role: PhD from the Catalan Institute of Chemical Research (ICIQ)
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include organic chemistry, inorganic chemistry,
   catalysis and chemical education.
 interests:
